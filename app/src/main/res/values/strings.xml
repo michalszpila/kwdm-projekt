@@ -7,4 +7,8 @@
     <string name="surname">Nazwisko</string>
     <string name="favourite_subject">Ulubiony przedmiot</string>
     <string name="send">Wyślij</string>
+
+    <string name="error_get">Próba pobrania zakończona błędem.</string>
+    <string name="error_post">Próba dodania zakończona błędem.</string>
+    <string name="new_item_added">Dodano nowy wpis</string>
 </resources>

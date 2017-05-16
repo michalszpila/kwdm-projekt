@@ -5,4 +5,6 @@ package eszpila.org.kwdm_projekt.model;
  */
 
 public class PersonResponse {
+
+    // TODO: 2017-05-16 Uzupełnić 
 }
